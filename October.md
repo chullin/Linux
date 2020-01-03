@@ -318,3 +318,6 @@ R1> permit ip host 192.168.13.1 host 192.168.23.2
 R2> ip access-list extended IPSEC_TUNNEL
 R2> permit ip host 192.168.23.2 host 192.168.13.1
 ```
+
+
+* [回上一頁](https://github.com/chullin/Linux/)
